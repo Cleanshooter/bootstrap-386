@@ -1,0 +1,7 @@
+img {
+  -webkit-filter: contrast(800%);
+     -moz-filter: contrast(1000%);
+      -ms-filter: contrast(800%);
+       -o-filter: contrast(800%);
+          filter: contrast(1000%);
+}
